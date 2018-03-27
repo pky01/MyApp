@@ -1,1 +1,1 @@
-consule.log(Hello);
+consule.log('Hello');
